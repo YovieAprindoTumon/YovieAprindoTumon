@@ -6,16 +6,10 @@
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
-
 <p align="center">
-  <!-- Tech stack nanti -->
+  <p align="center">
+  <img src="https://streak-stats.demolab.com?user=YovieAprindoTumon&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-<p align="center">
-  <!-- GitHub stats nanti -->
 </p>
 
 ---
